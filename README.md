@@ -1,6 +1,6 @@
 ## Hi there, I'm Nataly 👋
 
-- 🔭 I’m currently working as a Space Technology Research Intern awarded by NASA New Jersey Space Grant Consortium. My research focuses on using 3D computer vision and machine learning techniques to track and classify near-Earth objects and space debris to enhance space safety.  
+- 🔭 I’m currently working as a Space Technology Research Intern awarded by NASA New Jersey Space Grant Consortium. My research focuses on using 3D computer vision and machine learning techniques to predict potentially hazardous near-Earth objects to enhance space safety.  
 - 📫 How to reach me: njimene1@stevens.edu
 
 <!--**natalyjc/natalyjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
