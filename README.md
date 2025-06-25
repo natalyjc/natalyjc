@@ -1,6 +1,7 @@
 ## Hi there, I'm Nataly 👋
 
-- 🔭 I recently worked as a Summer Research Intern awarded by NASA New Jersey Space Grant Consortium. My research focused on predicting hazardous near-Earth objects using Random Forest and class imbalance techniques to enhance space safety. My interests also involve using deep learning models to solve real-world problems.
+- 🚀 I'm currently interning at Collins Aerospace as an AI/ML Engineer on the Digital Technology Artifical Intelligence (DT-AI) Team. I'm working with a team to create a PDF language translation system utilizing neural machine translation models and large language models.
+- 🔭 Last summer I worked as a Summer Research Intern awarded by NASA New Jersey Space Grant Consortium. My research focused on predicting hazardous near-Earth objects using Random Forest and class imbalance techniques to enhance space safety.
 - 📫 How to reach me: njimene1@stevens.edu
 
 <!--**natalyjc/natalyjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
