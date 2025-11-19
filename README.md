@@ -77,7 +77,8 @@
 
 ## 🧋 Favorite Boba
 
-passionfruit green tea with aloe jelly 🌱
+- passionfruit green tea with aloe jelly 🌱
+- wintermelon milk tea with pearls 🍂
 
 <!--**natalyjc/natalyjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
